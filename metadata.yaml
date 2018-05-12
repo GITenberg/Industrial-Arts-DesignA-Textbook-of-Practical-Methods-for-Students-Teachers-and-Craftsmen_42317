@@ -1,0 +1,31 @@
+_repo: Industrial-Arts-DesignA-Textbook-of-Practical-Methods-for-Students-Teachers-and-Craftsmen_42317
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42317-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Varnum, William H. (William Harrison)
+    alias: Varnum, William Harrison
+    birthdate: 1878
+    deathdate: 1946
+    gutenberg_agent_id: '41629'
+    url: http://www.gutenberg.org/2009/agents/41629
+description: ''
+gutenberg_issued: '2013-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42317'
+  lccn: '16014922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial arts'
+- !lcsh 'Decoration and ornament'
+- !lcc 'NK'
+title: 'Industrial Arts Design
+
+  A Textbook of Practical Methods for Students, Teachers, and Craftsmen'
+url: http://www.gutenberg.org/ebooks/42317
