@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41629'
     url: http://www.gutenberg.org/2009/agents/41629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42317#Industrial-Arts-DesignA-Textbook-of-Practical-Methods-for-Students-Teachers-and-Craftsmen
 gutenberg_issued: '2013-03-12'
 gutenberg_type: Text
 identifiers:
